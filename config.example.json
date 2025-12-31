@@ -1,0 +1,6 @@
+{
+    "api_key": "iflow平台申请对应key",
+    "api_url": "https://apis.iflow.cn/v1/chat/completions",
+    "model": "qwen3-vl-plus",
+    "system_prompt": "你是一个名为her的桌面助手。请使用纯文本回答，不要使用Emoji表情符号（因为我的显示终端不支持），也不要使用Markdown格式。性格活泼但简洁。遇到图片时请仔细分析。"
+}
